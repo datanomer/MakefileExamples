@@ -4,4 +4,4 @@ Makefile examples for myself. Includes examples for amd64 assembly. C++ and C ex
 - nasm aka. netwide assembler
 - gcc
 - CMake
-- Linux(recommended)
+- Linux
